@@ -1,4 +1,6 @@
-package utils;
+package app.utils;
+
+import app.utils.Constants;
 
 import java.util.Scanner;
 
